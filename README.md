@@ -82,5 +82,8 @@ This AI-driven plagiarism detection system enhances academic integrity by moving
 
 ---
 
-## 📁 Example Folder Structure
+---
+
+## 🤝 Built with ❤️ using IBM Granite & Cloud Services
+
 
